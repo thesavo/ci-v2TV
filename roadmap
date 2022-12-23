@@ -1,0 +1,28 @@
+##Phase 1 - Proof of concept ##
+Arduino TV out with Character test - no connection to radio yet 
+Use a FOR loop or other to show that text changes and the devices i not crashing.
+
+##Phase 2 - 
+
+
+##Phase 3- Basic txt Displays 
+
+
+##Phase 4 - micic onboard 7100 display 
+###Data on main disaply 
+Line1 | TX capable freq  | Mode | Passband  | Filter selected | time 
+Line2-3 | VFO A/B Freq | Memo A/B Freq and Name 
+Line03 | AGC Y/N 
+Line04 | selected filters | VFO/Memo #
+Line05 | S meter  | channel number
+Line06 | SWR Meter 
+
+### Update screen when user changes main disaply layout 
+Check for command to update when info changes 
+
+
+## Phase 5 - support for other radios 
+
+
+## Phase 6 - Future Updates 
+Setting clock. - routin to set clock on either unit 
