@@ -3,7 +3,8 @@ Arduino TV out with Character test - no connection to radio yet
 Use a FOR loop or other to show that text changes and the devices i not crashing.
 
 ##Phase 2 - 
-
+Config saves 
+D pad, select/Save, back/no save 
 
 ##Phase 3- Basic txt Displays 
 
