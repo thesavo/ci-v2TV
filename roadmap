@@ -1,6 +1,6 @@
 ##Phase 1 - Proof of concept ##
 Arduino TV out with Character test - no connection to radio yet 
-Use a FOR loop or other to show that text changes and the devices i not crashing.
+Use a FOR loop or other to show that text changes and the devices is not crashing.
 
 ##Phase 2 - 
 Config saves 
