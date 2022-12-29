@@ -9,14 +9,20 @@ D pad, select/Save, back/no save
 ##Phase 3- Basic txt Displays 
 Mix strings and variables on the same line 
 
-##Phase 4 - micic onboard 7100 display 
+##Phase 4 -
+<STRIKE>micic onboard 7100 display </STRIKE>
+Mimicing an ewxisint disaply is not currently possible given the current TVout library 
 ###Data on main disaply 
-Line1 | TX capable freq  | Mode | Passband  | Filter selected | time 
-Line2-3 | VFO A/B Freq | Memo A/B Freq and Name 
-Line03 | AGC Y/N 
-Line04 | selected filters | VFO/Memo #
-Line05 | S meter  | channel number
-Line06 | SWR Meter 
+Line1	Operating frequency A
+Line2	Mode
+Line3	transceiver ID
+Line4	S-meter level
+Line5	SWR Meter
+Line6 Not set
+Line7 Not set
+Line8 Not set
+Line9 Not set
+Line0 Not set
 
 ### Update screen when user changes main disaply layout 
 Check for command to update when info changes 
