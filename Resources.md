@@ -30,14 +30,12 @@ Also found as RadioShack 4-Position
 
 #### Cable Mouunt
 Matches radio side Houseing: Molex 03-09-1042, or Radio Shack
+
 Matches radio side Terminal: Molex
+
 Mates with Radio side housing: Molex 03-09-1041
+
 Mates with radio side Terminal: Molex 02-09-2103
 
-####Board Mount
-Matches radio side Houseing: Molex 
-Matches radio side Terminal: Molex 
-Mates with Radio side housing: Molex 
-Mates with radio side Terminal: Molex 
 
 URL: https://yo3hjv.blogspot.com/2021/04/icom-external-antenna-tuner-connector.html
