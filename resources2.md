@@ -6,7 +6,7 @@ name: Ham Radio : ICOM CI-V Smart Controller built around Nano EVERY
 URL: https://forum.arduino.cc/t/ham-radio-icom-ci-v-smart-controller-built-around-nano-every/944263
 
 
-name: External S-Meter on Icom Radios with CI-V Port
+name: External S-Meter on Icom Radios with CI-V Port  
 URL: https://projecthub.arduino.cc/ddufault/e9fdd9bd-06ac-4f6e-a64a-8966cba12101
 
 Name: Arduino-CI-V
