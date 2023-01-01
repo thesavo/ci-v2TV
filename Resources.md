@@ -24,7 +24,7 @@ URL:
 W1BLS - AE7PD ham Radio and vision
 
 
-Icom Tuner connector 
+### Icom Tuner connector 
 Molex 4-position 1490-P Series
 Also found as RadioShack 4-Position 
 Matches radio side Houseing
