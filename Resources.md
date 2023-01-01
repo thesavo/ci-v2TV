@@ -25,12 +25,16 @@ W1BLS - AE7PD ham Radio and vision
 
 
 ### Icom Tuner connector 
-Molex 4-position 1490-P Series
+#### Molex 4-position 1490-P Series
 Also found as RadioShack 4-Position 
-Matches radio side Houseing
-Matches radio side Terminal: 
 
-Mates with Radio side housing 
-Terminal: 
+####Cable Mouunt
+Matches radio side Houseing: Molex 03-09-1042, or Radio Shack
+Matches radio side Terminal: Molex 
+Mates with Radio side housing: Molex 03-09-1041
+Mates with radio side Terminal: Molex 02-09-2103
+
+Board Mount
+
 
 URL: https://yo3hjv.blogspot.com/2021/04/icom-external-antenna-tuner-connector.html
