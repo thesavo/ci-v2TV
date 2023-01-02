@@ -11,16 +11,16 @@ Mix strings and variables on the same line
 ## Phase 3- Basic txt Displays  -- Done 
 Add projet  boot logo and rectangle boarder 
 ### Data on main disaply 
-Line1	Operating frequency A
-Line2	Mode
-Line3	transceiver ID
-Line4	S-meter level
-Line5	SWR Meter
-Line6 Not set
-Line7 Not set
-Line8 Not set
-Line9 Not set
-Line0 Not set
+Line1	Operating frequency A  
+Line2	Mode  
+Line3	transceiver ID  
+Line4	S-meter level  
+Line5	SWR Meter  
+Line6 Not set  
+Line7 Not set  
+Line8 Not set  
+Line9 Not set  
+~~Line0 Not set~~
 
 ## Phase 4 -- Work in progress
 ~~micic onboard 7100 display ~~
