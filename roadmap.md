@@ -23,7 +23,7 @@ Line9 Not set
 ~~Line0 Not set~~
 
 ## Phase 4 -- Work in progress
-~~micic onboard 7100 display ~~
+~~micic onboard 7100 display  ~~
 Mimicing an exising disaply is not currently possible given the current TVout library 
 Connect to Icom 7100 radio to pull frequency data  
 Connect to Icom 7100 radio to pull addtional data fields 
