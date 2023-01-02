@@ -1,14 +1,14 @@
-## Phase 1 - Proof of concept ##
+## Phase 1 - Proof of concept -- Done 
 Arduino TV out with Character test - no connection to radio yet 
 ~~Use a FOR loop or other to show that text changes and the devices is not crashing.  ~~
 Added an updtime counter to show display has not crashed 
 Added mo
 
-## Phase 2 - 
+## Phase 2 -- Done 
 Mix strings and variables on the same line 
 
 
-## Phase 3- Basic txt Displays 
+## Phase 3- Basic txt Displays  -- Done 
 Add projet  boot logo and rectangle boarder 
 ### Data on main disaply 
 Line1	Operating frequency A
@@ -22,9 +22,11 @@ Line8 Not set
 Line9 Not set
 Line0 Not set
 
-## Phase 4 -
+## Phase 4 -- Work in progress
 ~~micic onboard 7100 display ~~
 Mimicing an exising disaply is not currently possible given the current TVout library 
+Connect to Icom 7100 radio to pull frequency data  
+Connect to Icom 7100 radio to pull addtional data fields 
 
 
 
