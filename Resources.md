@@ -1,18 +1,15 @@
 Existing resources that I have used to familiarize with this interface to better understand is limitaions and capabilities. Also are resources for general purpose ardunio TV out.
 ##Extising Resources/Projects##
 ### CI-V
-KB3HHA - CI-V programming Primer 
-URL: 
 
-Arduiioa - Icom CI-V Smart Controller 
-Built around nano EVERYTJHING
-URL: 
-
-Arduino Address Translor
-URL: 
-
-ICOM CI-V Frequency decoder - ON7EQ
-
+Name: External S-Meter on Icom Radios with CI-V Port  
+URL: https://projecthub.arduino.cc/ddufault/e9fdd9bd-06ac-4f6e-a64a-8966cba12101  
+Connection:  
+Tip only on 3.5mm mono plug  
+10K Resistor  
+4.7K resistor  
+1 1N4148 Transistor
+(Pin 7) Pin 2 5v 
 
 ### Arduiono TV out 
 Composite TV libray - TV out repository 
