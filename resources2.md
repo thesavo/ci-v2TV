@@ -1,17 +1,10 @@
 # Resources for Arduino CI-V and Tranceiver interconnect 
+OK info but not used in this project. 
 ## Google Search 
 icom ci-v arduino ttl
 
 
-Result 2
-Name: External S-Meter on Icom Radios with CI-V Port  
-URL: https://projecthub.arduino.cc/ddufault/e9fdd9bd-06ac-4f6e-a64a-8966cba12101  
-Connection:  
-Tip only on 3.5mm mono plug  
-10K Resistor  
-4.7K resistor  
-1 1N4148 Transistor
-(Pin 7) Pin 2 5v 
+
 
 
 Name: Arduino-CI-V  
