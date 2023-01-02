@@ -30,4 +30,18 @@ Connection: Many passive commopionents between Arduino and radio
 2 NPN Transitors  
 1 PNP Transistors  
 
+
+KB3HHA - CI-V programming Primer 
+URL: 
+
+Arduiioa - Icom CI-V Smart Controller 
+Built around nano EVERYTJHING
+URL: 
+
+Arduino Address Translor
+URL: 
+
+ICOM CI-V Frequency decoder - ON7EQ
+
+
 END OF Document
