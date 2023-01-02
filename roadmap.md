@@ -8,9 +8,9 @@ Added mo
 Mix strings and variables on the same line 
 
 
-## Phase 3- Basic txt Displays  -- Done 
-Add projet  boot logo and rectangle boarder 
-### Data on main disaply 
+## Phase 3- Basic txt Displays  -- Done  
+Add projet  boot logo and rectangle boarder  
+### Data on main disaply  
 Line1	Operating frequency A  
 Line2	Mode  
 Line3	transceiver ID  
@@ -23,8 +23,8 @@ Line9 Not set
 ~~Line0 Not set~~
 
 ## Phase 4 -- Work in progress
-~~micic onboard 7100 display  ~~
-Mimicing an exising disaply is not currently possible given the current TVout library 
+~~micic onboard 7100 display~~  
+Mimicing an exising disaply is not currently possible given the current TVout library  
 Connect to Icom 7100 radio to pull frequency data  
 Connect to Icom 7100 radio to pull addtional data fields 
 
